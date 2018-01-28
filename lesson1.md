@@ -30,3 +30,8 @@ yowlinchen
 - writing code
 - play basketball
 - sleep
+
+我最喜歡的程式語言
+- Perl
+- Python
+- C++
